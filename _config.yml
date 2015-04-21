@@ -1,6 +1,6 @@
 # Site settings
-title: Metaphor
-smalltalk: "Welcome to PopezBlog!"
+title: Rushing to OUT!
+smalltalk: "Welcome to Popez's Blog!"
 description: > # My blog Powred by jekyll
 baseurl: "" # the subpath of your site, e.g. /blog/
 paginate: 5

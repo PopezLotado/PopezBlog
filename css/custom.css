@@ -2,7 +2,7 @@
 .header {
   background: url("../img/bg.jpeg") 50% 0 no-repeat fixed;
   width: 100%;
-  min-height: 400px;
+  min-height: 600px;
   margin: 0 auto;
   padding: 0; }
   .header h2 {
@@ -10,7 +10,7 @@
     font-family: "Monostate", sans-serif;
     font-size: 3em;
     font-weight: 900;
-    color: #fff;
+    color: #000;
     letter-spacing: 0.2em;
     margin-top: 10%; }
     .header h2 a {

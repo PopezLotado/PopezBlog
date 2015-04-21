@@ -15,19 +15,19 @@
     margin-top: 10%; }
     .header h2 a {
       margin-left: 0%;
-      color: #fff; }
+      color: #000; }
   .header p {
     text-align: center;
     font-family: "Monostate", sans-serif;
     font-size: 1.2em;
     font-weight: 600;
-    color: #fff;
+    color: #000;
     letter-spacing: .1em;
     margin-top: 2%; }
   .header a {
     text-decoration: none !important;
     margin-left: 80%;
-    color: #fff; }
+    color: #000; }
     @media screen and (max-width: 360px) {
       .header a {
         margin-left: 60%; } }
